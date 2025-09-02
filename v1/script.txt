@@ -1,0 +1,263 @@
+🔥 Pechakucha Layout: “Fear of Failure”
+Intro (before slide 1 appears)
+
+👤 Presenter 1 (you):
+“Good evening! Let me start with a story. A toddler is learning to walk, falls down, cries, and then… stands up again. Nobody calls it a failure. We call it learning. But as we grow older, somehow, we start fearing those very falls.”
+
+👤 Presenter 2:
+(smiling) “And today, in just 6 minutes 40 seconds, we’re going to talk about fear of failure—something all of us, from toddlers to tech leads at Airbus—have faced.”
+
+Slides
+Slide 1 – The Fall
+==========================
+
+Image: Toddler falling while trying to walk, smiling.
+
+Speaker: Presenter 1
+
+Content: “Our first failures come before we even know the word—falling while learning to walk. The fear isn’t there yet. Only curiosity.”
+
+Body language: Open arms, gentle smile.
+
+
+Slide 2 – School Stage
+==========================
+
+Image: Child holding test paper with a red cross.
+
+Speaker: Presenter 2
+
+Content: “Then school happens. One wrong answer, one red mark—and suddenly we’re told failure is shameful. That’s when fear sneaks in.”
+
+Gesture: Tap imaginary paper, frown playfully.
+
+
+Slide 3 – Teenagers
+==========================
+
+Image: A teen nervous on stage or in sports.
+
+Speaker: Presenter 1
+
+Content: “In teenage years, failure isn’t just about marks—it’s about fitting in. Not making the team, rejection in love. Each feels like the end of the world.”
+
+Gesture: Hand to chest dramatically, audience chuckle.
+
+
+Slide 4 – College/First Job
+==========================
+
+Image: Student at interview panel sweating.
+
+Speaker: Presenter 2
+
+Content: “Then comes job interviews. One rejection email—and it feels like life is over. We start measuring ourselves by success rate.”
+
+Body: Lean slightly forward, empathetic tone.
+
+
+Slide 5 – Career (Tech World)
+==========================
+
+Image: Stressed IT worker at desk, multiple screens.
+
+Speaker: Presenter 1
+
+Content: “As tech leads, failure looks different. A failed deployment, a service outage, a bug in production—suddenly, hundreds are impacted.”
+
+Gesture: Use hands like ‘explosion’.
+
+
+Slide 6 – Airbus Example
+==========================
+
+Image: Airbus aircraft on runway.
+
+Speaker: Presenter 2
+
+Content: “At Airbus, precision is non-negotiable. Fear of failure isn’t abstract—it could mean safety, deadlines, reputation. Stakes are higher.”
+
+Tone: Serious, pause after.
+
+
+Slide 7 – Fear Amplified
+==========================
+
+Image: Shadow of a monster behind a small child.
+
+Speaker: Presenter 1
+
+Content: “Notice—fear of failure is rarely the event itself. It’s the monster we imagine in our minds.”
+
+Gesture: Point behind as if monster is there.
+
+
+Slide 8 – Humor Break
+==========================
+
+Image: Funny cartoon of someone falling into a hole marked ‘FAIL’.
+
+Speaker: Presenter 2
+
+Content: “But let’s be honest. If failure was fatal, none of us would be standing here. We’d all be fossils!”
+
+Gesture: Laugh, spread arms.
+
+
+Slide 9 – Famous Failures
+==========================
+
+Image: Collage – Edison, Oprah, Steve Jobs.
+
+Speaker: Presenter 1
+
+Content: “Thomas Edison made 1,000 unsuccessful attempts at a bulb. Oprah was told she’s ‘unfit for TV’. Steve Jobs was fired from Apple. Failures built their success.”
+
+Gesture: Point to images, strong voice.
+
+
+Slide 10 – Psychological Angle
+==========================
+
+Image: Brain with fear/anxiety highlighted.
+
+Speaker: Presenter 2
+
+Content: “Psychologically, failure activates the same brain regions as physical pain. That’s why it hurts—literally.”
+
+Gesture: Point to temple.
+
+
+Slide 11 – Workplace Fear
+==========================
+
+Image: Team meeting, one person hesitant to speak.
+
+Speaker: Presenter 1
+
+Content: “In our IT teams, fear of failure stops people from speaking up, experimenting, or taking ownership. Innovation dies silently.”
+
+Tone: Firm, slightly lowered voice.
+
+
+Slide 12 – Solution: Safe Space
+==========================
+
+Image: Open circle team discussion.
+
+Speaker: Presenter 2
+
+Content: “As leaders, our job isn’t to remove failure. It’s to create safety—where people can fail fast, learn faster.”
+
+Body: Step forward, palms open.
+
+
+Slide 13 – Humor Example (IT)
+==========================
+
+Image: Meme of “It worked on my machine”.
+
+Speaker: Presenter 1
+
+Content: “We laugh at the line—‘It worked on my machine’. But failure stories like these teach us more than success stories.”
+
+Gesture: Smile, audience chuckle.
+
+
+Slide 14 – Growth Mindset
+==========================
+
+Image: Plant growing from cracked concrete.
+
+Speaker: Presenter 2
+
+Content: “Carol Dweck calls it a growth mindset. Failure isn’t the opposite of success—it’s part of the process.”
+
+Tone: Inspirational, pause on “part of the process”.
+
+
+Slide 15 – Personal Story
+==========================
+
+Image: A symbolic roadblock.
+
+Speaker: Presenter 1
+
+Content: “I once led a project that failed during rollout. At first, I thought my career was over. But that failure taught me resilience, risk planning, and humility.”
+
+Tone: Vulnerable, honest.
+
+
+Slide 16 – Humor Relief
+==========================
+
+Image: Cartoon: person falling with parachute opening.
+
+Speaker: Presenter 2
+
+Content: “Failure is like skydiving. The fall feels scary, but hey—the parachute opens eventually.”
+
+Gesture: Pretend pulling cord.
+
+
+Slide 17 – Team Approach
+==========================
+
+Image: Rowers in a boat rowing together.
+
+Speaker: Presenter 1
+
+Content: “Teams that embrace small failures together become stronger, faster, more innovative. Failure shared is failure halved.”
+
+Tone: Energized, smile.
+
+
+Slide 18 – Tools & Practices
+==========================
+
+Image: Agile sprint board / Post-its.
+
+Speaker: Presenter 2
+
+Content: “Agile retrospectives, chaos testing, postmortems—these normalize failure and turn it into learning fuel.”
+
+Body: Point as if listing 1,2,3.
+
+
+Slide 19 – Call to Audience
+==========================
+
+Image: Open road stretching forward.
+
+Speaker: Presenter 1
+
+Content: “So next time you hesitate, ask: is it the failure itself, or the fear of it, that’s stopping me?”
+
+Tone: Direct eye contact, pause.
+
+
+Slide 20 – Closing
+==========================
+
+Image: Person standing on mountain peak arms raised.
+
+Speaker: Presenter 2
+
+Content: “Fear of failure is universal—but so is courage. Fail, rise, learn, repeat. That’s how toddlers walk. That’s how leaders grow.”
+
+Gesture: Spread arms wide, big smile.
+
+
+
+🎭 Body Language & Storytelling Tips
+==========================================
+
+Movement: Both presenters stand center. Alternate slides smoothly (no “my turn/your turn” announcements).
+
+Voice: Use pauses after humor. Use rising tone on motivational lines.
+
+Gestures: Natural, open arms. Avoid crossing arms or looking at slides too much.
+
+Engagement: Smile at audience during humor slides. Use eye contact in serious ones.
+
+Humor: Sprinkle but don’t overdo—audience should laugh and then reflect.
