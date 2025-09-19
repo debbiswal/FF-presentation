@@ -10,7 +10,7 @@ But as we grow older, somehow, we start fearing those very falls.”
 👤 Presenter 2:
 (smiling) “And today, in just 6 minutes 40 seconds, 
 we’re going to talk about fear of failure—something all of us, 
-from toddlers to tech leads at Airbus—have faced.”
+from toddlers to tech leads at Ab—have faced.”
 
 Slides
 Slide 1 – The Fall
@@ -80,14 +80,14 @@ Content: “As tech leads, failure looks different.
 Gesture: Use hands like ‘explosion’.
 
 
-Slide 6 – Airbus Example
+Slide 6 – ab Example
 ==========================
 
-Image: Airbus aircraft on runway.
+Image: ab aircraft on runway.
 
 Speaker: Presenter 2
 
-Content: “At Airbus, precision is non-negotiable. 
+Content: “At ab, precision is non-negotiable. 
 Fear of failure isn’t abstract—it could mean safety, deadlines, reputation. Stakes are higher.”
 
 Tone: Serious, pause after.
